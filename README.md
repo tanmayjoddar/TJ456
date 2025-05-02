@@ -3,11 +3,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tj456&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
      
-         <p align="right">
-<a href="https://twitter.com/joddar_tan8236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joddar_tan8236" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanmay joddar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay joddar" height="30" width="40" /></a>
-</p>
-
 ![](https://nirzak-streak-stats.vercel.app/?user=tj456&theme=tokyonight&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tj456&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
