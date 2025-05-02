@@ -17,5 +17,5 @@
 <h2>Connect</h2>
 <p align="left">
 <a href="https://twitter.com/joddar_tan8236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joddar_tan8236" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanmay joddar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay joddar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanmay-joddar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay joddar" height="30" width="40" /></a>
 </p>
