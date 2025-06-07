@@ -16,7 +16,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/TJ456?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills 
 <p align="left">
