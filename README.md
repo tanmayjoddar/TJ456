@@ -1,4 +1,15 @@
 # Hi I am Tanmay
+<div align="middle">
+  <img height="200" src="https://pouch.jumpshare.com/preview/NZ28IaxH9nZSP7DGFPeHqweBeBSxq-9ovol30My4bbduXztxANqFbUcBGZflxXNiLv5t7zrVUlybAL3YeOWIsu7kJSCgVo3MbMr2xcdsCY4"  />
+</div>
+
+###
+
+<div align="middle">
+  <img src="https://profile-counter.glitch.me/TJ456/count.svg?"  />
+</div>
+
+###
 #                                     A Passionate Open-Source Contributor
 
 <p align="left">
