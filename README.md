@@ -114,13 +114,17 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TJ456&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TJ456&theme=material-palenight&hide_border=false)<br/>
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=TJ456&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-stats.vercel.app/api?username=TJ456&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TJ456&theme=material-palenight&hide_border=false" alt="GitHub Streak"/><br/>
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=TJ456&icon=0&color=0" alt="Visitor Count"/>
+  </a>
+
+</div>
 
 
 ## 🧊 My 3D Contribution Calendar
