@@ -42,17 +42,16 @@
 ## 🧊 My 3D Contribution Calendar
 
 ![Night View](./profile-3d-contrib/profile-night-rainbow.svg)
-
-### Skills 
+ 
 <!-- 🎯 Animated Heading -->
 <h2 align="center">
-  🚀 Tech Stack I Use & Love ❤️
+  🚀 Tech Stack I Use 
 </h2>
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, rgba(0,255,170,1) 0%, rgba(255,0,204,1) 100%);box-shadow: 0 0 10px #00ffaa; margin: 30px 0;" />
 
 <!-- 🌐 Frontend -->
-<h3 align="center">🌐 Frontend Development</h3>
+<h2 align="center">🌐 Frontend Development</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" /></a>
