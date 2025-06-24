@@ -27,10 +27,9 @@
   </a>
 </div>
 
-###
 
 
-#                                     A Passionate Open-Source Contributor
+
 
 
 <!-- 🚀 Animated Title -->
