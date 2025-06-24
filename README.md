@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/PGRTPCV/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Tanmay GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/TJ456/TJ456/main/github-banner.png" alt="GitHub Banner" style="max-width: 100%;" />
 </p>
+
 
 # Hi I am Tanmay
 <img align="right" height="177" src="https://pouch.jumpshare.com/preview/NZ28IaxH9nZSP7DGFPeHqweBeBSxq-9ovol30My4bbduXztxANqFbUcBGZflxXNiLv5t7zrVUlybAL3YeOWIsu7kJSCgVo3MbMr2xcdsCY4"  />
