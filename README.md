@@ -27,10 +27,6 @@
 
 #                                     A Passionate Open-Source Contributor
 
-<!-- 🎯 Animated Heading -->
-<h2 align="center">
-  🚀 Tech Stack I Use 
-</h2>
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, rgba(0,255,170,1) 0%, rgba(255,0,204,1) 100%);box-shadow: 0 0 10px #00ffaa; margin: 30px 0;" />
 
@@ -52,7 +48,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff007f, #00f7ff);box-shadow: 0 0 10px #00f7ff; margin: 30px 0;" />
 
 <!-- 🛠️ Backend -->
-<h3 align="center">🛠️ Backend Development</h3>
+<h2 align="center">🛠️ Backend Development</h2>
 <p align="center">
   <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" alt="Go" /></a>
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="Node.js" /></a>
@@ -67,7 +63,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ffe600, #00f2fe);box-shadow: 0 0 10px #ffe600; margin: 30px 0;" />
 
 <!-- ⚙️ DevOps -->
-<h3 align="center">⚙️ DevOps & Infra Tools</h3>
+<h2 align="center">⚙️ DevOps & Infra Tools</h2>
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="36" /></a>
@@ -78,7 +74,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #fe019a, #00ffff);box-shadow: 0 0 10px #fe019a; margin: 30px 0;" />
 
 <!-- 🎨 Design -->
-<h3 align="center">🎨 Design Tools</h3>
+<h2 align="center">🎨 Design Tools</h2>
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" alt="Figma" /></a>
   <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="36" /></a>
@@ -87,7 +83,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff6ec4, #7873f5);box-shadow: 0 0 10px #ff6ec4; margin: 30px 0;" />
 
 <!-- 🔗 Web3 -->
-<h3 align="center">🔗 Web3 & Blockchain</h3>
+<h2 align="center">🔗 Web3 & Blockchain</h2>
 <p align="center">
   <a href="https://metamask.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40" alt="MetaMask" /></a>
   <a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" alt="Hardhat" /></a>
