@@ -3,7 +3,7 @@
 </p>
 
 
-# Hi I am Tanmay
+
 <img align="right" height="177" src="https://pouch.jumpshare.com/preview/NZ28IaxH9nZSP7DGFPeHqweBeBSxq-9ovol30My4bbduXztxANqFbUcBGZflxXNiLv5t7zrVUlybAL3YeOWIsu7kJSCgVo3MbMr2xcdsCY4"  />
 
 ###
