@@ -29,9 +29,9 @@
 
 
 <!-- 🚀 Animated Title -->
-<h2 align="center" style="font-size: 32px; font-weight: bold; color: #fff; background: linear-gradient(90deg, #00ffd5, #ff00c3); padding: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,255,255,0.5);">
-  🚀 Tech Stack I Use & Love ❤️
-</h2>
+<h1 align="center" style="font-size: 32px; font-weight: bold; color: #fff; background: linear-gradient(90deg, #00ffd5, #ff00c3); padding: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,255,255,0.5);">
+  🚀 Tech Stacks
+</h1>
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, rgba(0,255,170,1), rgba(255,0,204,1));box-shadow: 0 0 10px #00ffaa; margin: 30px 0;" />
 
