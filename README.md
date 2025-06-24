@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/PGRTPCV/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="GitHub Banner" />
+  <img src="https://i.ibb.co/PGRTPCV/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Tanmay GitHub Banner" />
 </p>
 
 # Hi I am Tanmay
