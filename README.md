@@ -28,10 +28,15 @@
 #                                     A Passionate Open-Source Contributor
 
 
-<hr style="height:2px;border-width:0;background:linear-gradient(90deg, rgba(0,255,170,1) 0%, rgba(255,0,204,1) 100%);box-shadow: 0 0 10px #00ffaa; margin: 30px 0;" />
+<!-- 🚀 Animated Title -->
+<h2 align="center" style="font-size: 32px; font-weight: bold; color: #fff; background: linear-gradient(90deg, #00ffd5, #ff00c3); padding: 10px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,255,255,0.5);">
+  🚀 Tech Stack I Use & Love ❤️
+</h2>
+
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, rgba(0,255,170,1), rgba(255,0,204,1));box-shadow: 0 0 10px #00ffaa; margin: 30px 0;" />
 
 <!-- 🌐 Frontend -->
-<h2 align="center">🌐 Frontend Development</h2>
+<h2 align="center" style="color:#61dafb">🌐 Frontend Development</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" /></a>
@@ -48,7 +53,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff007f, #00f7ff);box-shadow: 0 0 10px #00f7ff; margin: 30px 0;" />
 
 <!-- 🛠️ Backend -->
-<h2 align="center">🛠️ Backend Development</h2>
+<h2 align="center" style="color:#facc15">🛠️ Backend Development</h2>
 <p align="center">
   <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" alt="Go" /></a>
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="Node.js" /></a>
@@ -63,7 +68,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ffe600, #00f2fe);box-shadow: 0 0 10px #ffe600; margin: 30px 0;" />
 
 <!-- ⚙️ DevOps -->
-<h2 align="center">⚙️ DevOps & Infra Tools</h2>
+<h2 align="center" style="color:#00c4ff">⚙️ DevOps & Infra Tools</h2>
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="36" /></a>
@@ -74,7 +79,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #fe019a, #00ffff);box-shadow: 0 0 10px #fe019a; margin: 30px 0;" />
 
 <!-- 🎨 Design -->
-<h2 align="center">🎨 Design Tools</h2>
+<h2 align="center" style="color:#ff69b4">🎨 Design Tools</h2>
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" alt="Figma" /></a>
   <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="36" /></a>
@@ -83,7 +88,7 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff6ec4, #7873f5);box-shadow: 0 0 10px #ff6ec4; margin: 30px 0;" />
 
 <!-- 🔗 Web3 -->
-<h2 align="center">🔗 Web3 & Blockchain</h2>
+<h2 align="center" style="color:#9d4edd">🔗 Web3 & Blockchain</h2>
 <p align="center">
   <a href="https://metamask.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40" alt="MetaMask" /></a>
   <a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" alt="Hardhat" /></a>
@@ -91,6 +96,17 @@
   <a href="https://docs.alchemy.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="40" alt="Alchemy" /></a>
   <a href="https://solana.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="40" alt="Solana" /></a>
   <a href="https://ethereum.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" alt="Ethereum" /></a>
+</p>
+
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ffcc00, #00d1ff);box-shadow: 0 0 10px #00d1ff; margin: 30px 0;" />
+
+<!-- 🧠 AI/ML -->
+<h2 align="center" style="color:#4ade80">🧠 AI / Machine Learning</h2>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="36" alt="Pandas" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="36" alt="NumPy" /></a>
+  
 </p>
 
 # 📊 GitHub Stats:
