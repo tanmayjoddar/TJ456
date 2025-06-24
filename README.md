@@ -52,12 +52,14 @@
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff007f, #00f7ff);box-shadow: 0 0 10px #00f7ff; margin: 30px 0;" />
 
 <!-- 🛠️ Backend -->
+<!-- 🛠️ Backend -->
 <h2 align="center" style="color:#facc15">🛠️ Backend Development</h2>
 <p align="center">
   <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" alt="Go" /></a>
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="Node.js" /></a>
-
- <a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" alt="GraphQL" /></a>
+  
+ 
+  <a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" alt="GraphQL" /></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" alt="MongoDB" /></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" alt="PostgreSQL" /></a>
   <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" alt="Supabase" /></a>
