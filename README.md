@@ -51,4 +51,4 @@
 
 ## 🧊 My 3D Contribution Calendar
 
-![Night View](./profile-3d-contrib/profile-night-view.svg)
+![Night View](./profile-3d-contrib/profile-south-season-animate.svg)
