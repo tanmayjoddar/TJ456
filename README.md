@@ -28,7 +28,8 @@
 </div>
 
 
-
+## Have a look
+[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TJ456&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -121,8 +122,7 @@
 [![](https://visitcount.itsvg.in/api?id=TJ456&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Have a look
-[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TJ456&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🧊 My 3D Contribution Calendar
 
