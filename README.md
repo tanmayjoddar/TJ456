@@ -49,6 +49,8 @@
   🚀 Tech Stack I Use & Love ❤️
 </h2>
 
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, rgba(0,255,170,1) 0%, rgba(255,0,204,1) 100%);box-shadow: 0 0 10px #00ffaa; margin: 30px 0;" />
+
 <!-- 🌐 Frontend -->
 <h3 align="center">🌐 Frontend Development</h3>
 <p align="center">
@@ -64,6 +66,8 @@
   <a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="40" alt="Webpack" /></a>
 </p>
 
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff007f, #00f7ff);box-shadow: 0 0 10px #00f7ff; margin: 30px 0;" />
+
 <!-- 🛠️ Backend -->
 <h3 align="center">🛠️ Backend Development</h3>
 <p align="center">
@@ -77,6 +81,8 @@
   <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" alt="Supabase" /></a>
 </p>
 
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ffe600, #00f2fe);box-shadow: 0 0 10px #ffe600; margin: 30px 0;" />
+
 <!-- ⚙️ DevOps -->
 <h3 align="center">⚙️ DevOps & Infra Tools</h3>
 <p align="center">
@@ -86,12 +92,16 @@
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker" /></a>
 </p>
 
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, #fe019a, #00ffff);box-shadow: 0 0 10px #fe019a; margin: 30px 0;" />
+
 <!-- 🎨 Design -->
 <h3 align="center">🎨 Design Tools</h3>
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" alt="Figma" /></a>
   <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="36" /></a>
 </p>
+
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ff6ec4, #7873f5);box-shadow: 0 0 10px #ff6ec4; margin: 30px 0;" />
 
 <!-- 🔗 Web3 -->
 <h3 align="center">🔗 Web3 & Blockchain</h3>
@@ -103,7 +113,6 @@
   <a href="https://solana.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="40" alt="Solana" /></a>
   <a href="https://ethereum.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" alt="Ethereum" /></a>
 </p>
-
 
 
 
