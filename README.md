@@ -27,22 +27,6 @@
 
 #                                     A Passionate Open-Source Contributor
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TJ456&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TJ456&theme=noctis_minimus&hide_border=false)<br/>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=TJ456&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Have a look
-[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TJ456&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🧊 My 3D Contribution Calendar
-
-![Night View](./profile-3d-contrib/profile-night-rainbow.svg)
- 
 <!-- 🎯 Animated Heading -->
 <h2 align="center">
   🚀 Tech Stack I Use 
@@ -112,6 +96,24 @@
   <a href="https://solana.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="40" alt="Solana" /></a>
   <a href="https://ethereum.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" alt="Ethereum" /></a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TJ456&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TJ456&theme=noctis_minimus&hide_border=false)<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=TJ456&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Have a look
+[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TJ456&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🧊 My 3D Contribution Calendar
+
+![Night View](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+
 
 
 
