@@ -24,10 +24,6 @@
 
 ###
 
-## 🧊 My 3D Contribution Calendar
-
-![Night View](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 #                                     A Passionate Open-Source Contributor
 
@@ -43,6 +39,9 @@
 ## Have a look
 [![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TJ456&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🧊 My 3D Contribution Calendar
+
+![Night View](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Skills 
 <p align="left">
