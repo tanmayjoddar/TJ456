@@ -119,7 +119,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=TJ456&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TJ456&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TJ456&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 </div>
