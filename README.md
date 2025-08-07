@@ -72,17 +72,45 @@
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #ffe600, #00f2fe);box-shadow: 0 0 10px #ffe600; margin: 30px 0;" />
 
-<!-- ⚙️ DevOps -->
-<h2 align="center" style="color:#00c4ff">⚙️ DevOps & Infra Tools</h2>
+<!-- ⚙️ DevOps & Infrastructure -->
+<h2 align="center" style="color:#00c4ff">⚙️ DevOps & Infrastructure</h2>
 <p align="center">
+  <!-- Git -->
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="36" /></a>
-    <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" height="36" alt="Bitbucket" /></a>
-  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" height="36" /></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker" /></a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="36" />
+  </a>
+
+  <!-- Bitbucket -->
+  <a href="https://bitbucket.org/">
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" height="36" alt="Bitbucket" />
+  </a>
+
+  <!-- GitLab -->
+  <a href="https://about.gitlab.com/">
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" height="36" />
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker" />
+  </a>
+
+  <!-- Redis -->
+  <a href="https://redis.io/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="40" alt="Redis" />
+  </a>
+
+  <!-- RabbitMQ -->
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rabbitmq-colored.svg" width="40" alt="RabbitMQ" />
+  </a>
 </p>
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #fe019a, #00ffff);box-shadow: 0 0 10px #fe019a; margin: 30px 0;" />
+
 
 <!-- 🎨 Design -->
 <h2 align="center" style="color:#ff69b4">🎨 Design Tools</h2>
