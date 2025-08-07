@@ -76,21 +76,18 @@
 <h2 align="center" style="color:#00c4ff">⚙️ DevOps & Infrastructure</h2>
 <p align="center">
   <!-- Git -->
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" alt="Git" /></a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" alt="Git" />
+  </a>
   
   <!-- GitHub -->
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="36" />
-  </a>
-
-  <!-- Bitbucket -->
-  <a href="https://bitbucket.org/">
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" height="36" alt="Bitbucket" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="40" alt="GitHub" />
   </a>
 
   <!-- GitLab -->
   <a href="https://about.gitlab.com/">
-    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" height="36" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" width="40" alt="GitLab" />
   </a>
 
   <!-- Docker -->
@@ -110,6 +107,7 @@
 </p>
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #fe019a, #00ffff);box-shadow: 0 0 10px #fe019a; margin: 30px 0;" />
+
 
 
 <!-- 🎨 Design -->
