@@ -77,41 +77,42 @@
 <p align="center">
   <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   </a>
 
   <!-- GitLab -->
   <a href="https://about.gitlab.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" width="40" alt="GitLab" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab" />
   </a>
 
-  <!-- Bitbucket (custom icon) -->
+  <!-- Bitbucket -->
   <a href="https://bitbucket.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" alt="Bitbucket" />
   </a>
 
   <!-- Docker -->
   <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   </a>
 
-  <!-- Redis (custom icon since Cranney repo is broken) -->
+  <!-- Redis -->
   <a href="https://redis.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis" />
   </a>
 
-  <!-- RabbitMQ (custom icon since Cranney repo is broken) -->
+  <!-- RabbitMQ -->
   <a href="https://www.rabbitmq.com/">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" alt="RabbitMQ" />
   </a>
 </p>
 
 <hr style="height:2px;border-width:0;background:linear-gradient(90deg, #fe019a, #00ffff);box-shadow: 0 0 10px #fe019a; margin: 30px 0;" />
+
 
 
 
